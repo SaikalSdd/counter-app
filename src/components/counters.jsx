@@ -21,5 +21,5 @@ class Counters extends Component {
          );
     }
 }
- 
-export default Counters;  
+
+export default Counters;
